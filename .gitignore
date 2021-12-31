@@ -19,6 +19,7 @@ tsconfig.tsbuildinfo
 
 .eslintcache
 .tmp
+run-project.sh
 
 /scripts/deployment-test/apps
 /scripts/deployment-test/package-lock.json
